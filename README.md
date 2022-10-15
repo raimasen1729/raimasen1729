@@ -2,7 +2,7 @@
 
 - :robot: I’m interested in Robotics, Computer Vision, Machine Learning and Medical AI
 - 🌱 I'm a graduate student at the University of Pennsylvania
-- 👯 I’m looking for full time roles starting May 2023
+- 👩‍💻 I’m looking for full time roles starting May 2023
 - 📫 You can reach me at [raima.sen1729@gmail.com](raima.sen1729@gmail.com)
 
 
