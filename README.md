@@ -6,7 +6,7 @@
 - 📫 You can reach me at [raima.sen1729@gmail.com](raima.sen1729@gmail.com)
 
 
-<a href="https://www.linkedin.com/in/paras-savnani-532966182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/psavnani?lang=en"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.researchgate.net/scientific-contributions/Paras-S-Savnani-2173763454"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/senraima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 - :rocket: Skills
 
