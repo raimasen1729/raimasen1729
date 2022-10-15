@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Raima !
 
-- 👀 I’m interested in Robotics, Computer Vision, Machine Learning and Medical AI.
-- 🌱 I am a graduate student at the University of Pennsylvania
+- 👀 I’m interested in Robotics, Computer Vision, Machine Learning and Medical AI
+- 🌱 I'm a graduate student at the University of Pennsylvania
 - 👯 I’m looking for full time roles starting May 2023
 - 📫 You can reach me at [raima.sen1729@gmail.com](raima.sen1729@gmail.com)
 
