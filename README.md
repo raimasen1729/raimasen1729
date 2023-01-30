@@ -3,10 +3,8 @@
 - :robot: I’m interested in Robotics, Computer Vision, Machine Learning and Medical AI
 - 🌱 I'm a graduate student at the University of Pennsylvania
 - 👩‍💻 I’m looking for full time roles starting May 2023
-- 📫 You can reach me at [raima.sen1729@gmail.com](raima.sen1729@gmail.com)
+- 📫 You can reach me at [raimasen@seas.upenn.edu](raimasen@seas.upenn.edu)
 
-
-<a href="https://www.linkedin.com/in/senraima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 - :rocket: Skills
 
