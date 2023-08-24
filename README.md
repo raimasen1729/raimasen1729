@@ -1,7 +1,7 @@
 ### 👋 Hi there, I’m Raima !
 
 - :robot: I’m interested in Robotics, Computer Vision, Machine Learning and Medical AI
-- 🌱 I'm a graduate student at the University of Pennsylvania
+- 🌱 I recently graduated from the University of Pennsylvania
 - 📫 You can reach me at [raimasen@seas.upenn.edu](raimasen@seas.upenn.edu)
 
 
